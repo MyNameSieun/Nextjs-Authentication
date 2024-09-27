@@ -1,4 +1,4 @@
-// src>app>(non-auth)>signin>page.tsx
+// src/app/(non-auth)/signin/page.tsx
 
 "use client";
 

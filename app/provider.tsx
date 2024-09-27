@@ -1,5 +1,3 @@
-// provider은 client 컴포넌트인데 root layout은 클라이언트 컴포넌트가 안 되므로 root layout에 provider을 use client로 만들어 주입해야함
-
 "use client";
 
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";

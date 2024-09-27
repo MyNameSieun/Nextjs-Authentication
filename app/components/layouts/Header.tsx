@@ -1,5 +1,5 @@
 import Link from "next/link";
-import SignInOutButton from "./common/SignInOutButton";
+import SignInOutButton from "../common/SignInOutButton";
 
 const Header = () => {
   return (
